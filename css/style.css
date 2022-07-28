@@ -1,0 +1,34 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(88, 86, 86);
+    color: rgb(18, 41, 18);
+}
+
+h2:hover{
+    color: rgb(59, 255, 85);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+footer:hover {
+    color: #63f73e;    
+    text-decoration: none;
+  
+}
+
+a:hover{
+    color: rgb(118, 247, 252);
+    text-decoration: none;
+}
+
+.rodape{
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
