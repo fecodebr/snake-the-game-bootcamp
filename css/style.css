@@ -10,7 +10,7 @@ body{
 }
 
 h2{
-    padding:10px;
+    margin-top: 10px;
 }
 h2:hover{
     color: rgb(59, 255, 85);
