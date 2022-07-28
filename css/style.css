@@ -10,8 +10,11 @@ body{
 }
 
 h2{
-    margin-top: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
+
 h2:hover{
     color: rgb(59, 255, 85);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
