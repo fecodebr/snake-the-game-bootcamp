@@ -9,6 +9,9 @@ body{
     color: rgb(18, 41, 18);
 }
 
+h2{
+    padding:10px;
+}
 h2:hover{
     color: rgb(59, 255, 85);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
